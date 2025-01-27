@@ -1,4 +1,4 @@
-# AWS Math Web Application
+### AWS Math Web Application
 
 Welcome to the **Math Web Application**! This simple web application leverages five different AWS services to design and build a fully functional, serverless application from scratch. The application includes features such as hosting a web page, performing serverless computations, and interacting with a NoSQL database. Below, you'll find details about each AWS service used and instructions to follow along.
 
